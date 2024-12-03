@@ -18,4 +18,9 @@
 
 - **enriched_test_data**  
   - Test data labeled with **named entities**.
-
+ 
+ ### Notebook Explanations:
+ 
+- Multilingual_News_Article_similarity_NLP_Project notebook consists of data downloading, data compiling, data cleaning techniques, as well as finetuning XLM-Roberta with the initial data
+- BERT_Multilingual notebook consists of finetuning BERT-Multilingual with the initial data
+- Finetuning_XLM_ROBERTA_with_enriched_dataset notebook consists of loading a pretrained multilingual NER model, enriching the given dataset wiith Named entities and finetuning XLM-Roberta with the enriched dataset
