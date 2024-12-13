@@ -24,3 +24,7 @@
 - **Multilingual_News_Article_similarity_NLP_Project** notebook consists of data downloading, data compiling, data cleaning techniques, as well as finetuning XLM-Roberta with the initial data
 - **BERT_Multilingual** notebook consists of finetuning BERT-Multilingual with the initial data
 - **Finetuning_XLM_ROBERTA_with_enriched_dataset** notebook consists of loading a pretrained multilingual NER model, enriching the given dataset wiith Named entities and finetuning XLM-Roberta with the enriched dataset
+
+- *** BERT_Multilingual_Merged ***
+  - This is the final merged notebook which contains "BERT_Multilingual with standard dataset file" and   "BERT_Multilingual with ENER enriched dataset file"
+  
